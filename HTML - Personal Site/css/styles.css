@@ -29,9 +29,12 @@ body {
 
 h1 {
   color: #ea1d2d;
-  padding-left: 30%;
+  padding-left: 0%;
 }
-
+.h1-title {
+  text-align: center;
+  color: #ea1d2d;
+}
 h3 {
   color: #ea1d2d;
   padding-left: 30%;
@@ -47,18 +50,21 @@ tr {
 
 li {
   color: white;
-  padding-left: 45%;
+  padding-left: 0%;
+  text-align: center;
 }
 table {
   padding-left: 30%;
 }
 
 .footerh1 {
-  padding-left: 45%;
+  padding-left: 0%;
+  text-align: center;
 }
 .hobbicesimage {
   padding-left: 30%;
 }
 form {
-  padding-left: 45%;
+  padding-left: 0%;
+  text-align: center;
 }
